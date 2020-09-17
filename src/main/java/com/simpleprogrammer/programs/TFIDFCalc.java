@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicReference;
 
-// cerner_2^5_2020
 
 public class TFIDFCalc {
 

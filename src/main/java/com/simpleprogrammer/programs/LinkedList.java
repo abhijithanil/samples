@@ -1,7 +1,5 @@
 package com.simpleprogrammer.programs;
 
-//cerner_2^5_2020
-
 // Creating a structure for Node
 class Node {
   Node next;
